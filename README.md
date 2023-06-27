@@ -1,4 +1,10 @@
-![image](https://github.com/KanNudimmud/neuro-muscular-reflex/assets/75501882/737c27a4-2294-41bd-8464-94f92ceb5f36)# neuro-muscular-reflex
+# neuro-muscular-reflex
+
+
+
+
+
+
 
 Block Diagram:
 
